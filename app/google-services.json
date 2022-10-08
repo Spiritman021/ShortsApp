@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "233441313223",
+    "project_id": "shorts-app-021",
+    "storage_bucket": "shorts-app-021.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:233441313223:android:d42004c0225d76f19999e2",
+        "android_client_info": {
+          "package_name": "com.tworoot2.shortsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "233441313223-vu9qfjatkubnk0keqv4dav0nb2e606k4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tworoot2.shortsapp",
+            "certificate_hash": "a69b78dd8ab7c379d5b195ed91e34ad37dda6fe2"
+          }
+        },
+        {
+          "client_id": "233441313223-otpmoq9sil2s5uiar5b8ot1ca6td34tj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjjc6W65tvHg8pwrd0jaiHOOogMhkZhwg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "233441313223-otpmoq9sil2s5uiar5b8ot1ca6td34tj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
